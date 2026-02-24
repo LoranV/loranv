@@ -4,6 +4,9 @@
 💻 Interested in Software Development & IT Support  
 ☕ Java | SQL | OOP | Problem Solving  
 
+## 🛠 Tech Stack
+Java • SQL • Git • OOP • HTML • CSS • JavaScript • PHP
+
 ## Currently Learning
 - Java & Spring Boot
 - REST APIs

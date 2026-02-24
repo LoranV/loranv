@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Vladyslav 👋
 
-<!--
-**LoranV/loranv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computing student based in London  
+💻 Interested in Software Development & IT Support  
+☕ Java | SQL | OOP | Problem Solving  
 
-Here are some ideas to get you started:
+## Currently Learning
+- Java & Spring Boot
+- REST APIs
+- Databases
+- Backend development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 Website Ukraine – Html, CSS, JS projecty  
+🔹 Task Manager API – REST backend practice  
+🔹 Algorithm & Problem Solving exercises
+
+## Goals
+Looking for entry-level IT Support or Junior Developer opportunities.
+
+📫 Contact: vladloran17@gmail.com
